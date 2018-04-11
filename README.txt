@@ -1,6 +1,6 @@
-Привет!
-Данный проект является презентацией компетенций в Microsoft Power BI для Epam Systems.
-Алексей Малашенко
+п»їРџСЂРёРІРµС‚!
+Р”Р°РЅРЅС‹Р№ РїСЂРѕРµРєС‚ СЏРІР»СЏРµС‚СЃСЏ РїСЂРµР·РµРЅС‚Р°С†РёРµР№ РєРѕРјРїРµС‚РµРЅС†РёР№ РІ Microsoft Power BI РґР»СЏ Epam Systems.
+РђР»РµРєСЃРµР№ РњР°Р»Р°С€РµРЅРєРѕ
 
 Hi!
 This project is a presentation of competencies in Microsoft Power BI for Epam Systems.
