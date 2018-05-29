@@ -6,6 +6,10 @@
 
 "Сссылка на публикацию в веб":https://app.powerbi.com/view?r=eyJrIjoiZmVkNmQzMjktOGUwOC00MmRmLWIzMzMtM2NlNTc2MmE4ZGVjIiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9.
 
+<pre>
+link URL https://app.powerbi.com/view?r=eyJrIjoiZmVkNmQzMjktOGUwOC00MmRmLWIzMzMtM2NlNTc2MmE4ZGVjIiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9
+</pre>
+
 Алексей Малашенко
 
 
@@ -16,9 +20,7 @@ ________________________________________________________________________________
 
 
 
-<p align="center">
-Hi!
-</p>
+h2. Hi!
 
 This project is a presentation of competencies in Microsoft Power BI.
 Alexey Malashenko
