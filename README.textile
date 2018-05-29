@@ -23,4 +23,7 @@ ________________________________________________________________________________
 h2. Hi!
 
 This project is a presentation of competencies in Microsoft Power BI.
+
+"Link URL.":https://app.powerbi.com/view?r=eyJrIjoiZmVkNmQzMjktOGUwOC00MmRmLWIzMzMtM2NlNTc2MmE4ZGVjIiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9.
+
 Alexey Malashenko
